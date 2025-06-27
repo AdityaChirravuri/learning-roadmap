@@ -1,3 +1,4 @@
+
 | Day     | 1st Hour                                   | 2nd Hour     | 3rd Hour            |
 | ------- | ------------------------------------------ | ------------ | ------------------- |
 | **Mon** | C++ Concepts                               | C++ Code     | CP                  |
@@ -20,6 +21,7 @@
 | Full Stack (JS/React) | 🌐 Web Dev  | 3 hrs      | Sat          |
 
 
+WEEK 1: Foundation Setup
 | Day | 1st Hour               | 2nd Hour               | 3rd Hour               |
 | --- | ---------------------- | ---------------------- | ---------------------- |
 | Mon | C++: Variables & Loops | C++: Functions         | CP: Easy problems      |
@@ -30,6 +32,7 @@
 | Sat | Go: Syntax & Slices    | React: JSX, Props      | Build Hello World Site |
 | Sun | Review + CP Contest    | Push to GitHub         | Plan next week         |
 
+WEEK 2: OOP + SQL + Concurrency Basics
 | Day | 1st Hour                | 2nd Hour                   | 3rd Hour                |
 | --- | ----------------------- | -------------------------- | ----------------------- |
 | Mon | C++: OOP (Classes)      | C++: Constructors          | CP: Strings/Sorting     |
@@ -40,7 +43,7 @@
 | Sat | Go: Structs + Maps      | React: Hooks & State       | JS: Events & DOM        |
 | Sun | Review + Contest        | Update GitHub              | Plan next week          |
 
-
+WEEK 3–4: Intermediate Depth
 | Day    | 1st Hour                 | 2nd Hour                  | 3rd Hour                   |
 | ------ | ------------------------ | ------------------------- | -------------------------- |
 | Mon    | C++: Function Pointers   | CP: Two Pointers          | C++: File Handling         |
@@ -51,6 +54,7 @@
 | Sat    | Go: HTTP Server Basics   | React: Forms + Validation | JS: Routing + SPA          |
 | Sunday | Review Week              | CP Contest                | GitHub Push                |
 
+WEEK 5–8: Project Phase
 | Day    | 1st Hour                    | 2nd Hour                   | 3rd Hour               |
 | ------ | --------------------------- | -------------------------- | ---------------------- |
 | Mon    | C++: STL (Map, Set, Vector) | CP: Greedy / Binary Search | OS: Process Scheduling |
@@ -61,6 +65,7 @@
 | Sat    | Go: REST API (Gin)          | React: Integrate API       | Full Stack App Start   |
 | Sunday | Review + Push + Refactor    | Take contest/test          | Blog/log progress      |
 
+WEEK 9–12: Integration + Advanced Practice
 | Day    | 1st Hour                      | 2nd Hour                       | 3rd Hour                |
 | ------ | ----------------------------- | ------------------------------ | ----------------------- |
 | Mon    | C++: Final Project            | CP: Dynamic Programming        | System Design Basics    |
