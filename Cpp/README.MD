@@ -16,7 +16,7 @@ Topics Include:
 
  | Project Name | Description | Repository Link |
  |--------------|-------------|-----------------|
- | Publisher-Subscriber Chat System | A MutliThreaded Distributed C++ Chat System | [🔗 GitHub Repo](shttps://github.com/AdityaChirravuri/Chat-App-Using-Cpp) |
+ | Publisher-Subscriber Chat System | A MutliThreaded Distributed C++ Chat System | [🔗 GitHub Repo](https://github.com/AdityaChirravuri/Chat-App-Using-Cpp) |
 
  > More Projects and concepts coming Soon !! 
  > DSA Focued Questions.
