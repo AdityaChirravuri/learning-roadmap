@@ -1,0 +1,49 @@
+# Build artifacts
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+build-*/
+
+# Ninja build system
+.ninja_deps
+.ninja_log
+
+# Compilation database
+compile_commands.json
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Core dumps
+core
